@@ -111,7 +111,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://github.com/waiiphyo/por/blob/main/src/components/resume.pdf'
+              href='https://github.com/waiiphyo/wp-por/blob/main/src/components/resume.pdf'
               download
             >
               Resume <FaFilePdf size={30} />
